@@ -1,0 +1,10 @@
+Package: SizeSpectra
+Type: Package
+Title: Produces Dynamic Size Spectra for Marine Ecosystems
+Version: 1.0
+Date: 2007-07-11
+Author: Matt Castle
+Maintainer: <matt.castle@cefas.co.uk>
+Depends: methods
+Description: More about what it does (maybe more than one line)
+License: What license is it under?
